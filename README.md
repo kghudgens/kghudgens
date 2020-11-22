@@ -1,8 +1,6 @@
 ### Hello, I'm Kevin Hudgens👋
 
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working on a python web application.  
 🌱 I’m currently learning more advanced ways to use python.  
 👯 I’m looking to collaborate on open source projects.  
