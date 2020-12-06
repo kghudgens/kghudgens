@@ -1,8 +1,8 @@
 ### Hello, I'm Kevin Hudgens👋
 
 
-🔭 I’m currently working on a python web application.  
-🌱 I’m currently learning more advanced ways to use python.  
+🔭 I’m currently working on my python web application, OptionHouse.  
+🌱 I’m currently learning ways to use javascript on my django websites.  
 👯 I’m looking to collaborate on open source projects.  
 🤔 I’m looking for help with creating a portfolio of quality projects for the job hunt.  
 💬 Ask me about living in Japan.  
