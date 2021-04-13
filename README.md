@@ -1,7 +1,6 @@
 ### Hello, I'm Kevin Hudgens👋
 
-
-🔭 I’m currently working on my new Java project and Django project Option House.  
+🔭 I’m currently working on my new Java project The Student Management System and Django project Option House.  
 🌱 I’m currently learning more about Java and JavaScipt.  
 🤔 I’m looking for help with creating a portfolio of quality projects for the job hunt.  
 💬 Ask me about living in Japan.   
