@@ -8,3 +8,7 @@ Currently Working : Crime Ward
         - ReactJs
         - Django
         - PostgreSQL
+        
+Current Learning Priorities:
+1. Data Structures and Algorithms
+2. ReactJs
