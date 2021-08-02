@@ -4,11 +4,11 @@ I am a Software Engineer currently attending the University of Maryland, earning
 
 My main objective is to become familiar with Reactjs and improve my ability to solve problems revolving around data structures and algorithms.
 
-Currently Working : Crime Ward 
-        - ReactJs
+Currently Working : Study Wise 
         - Django
         - PostgreSQL
         
 Current Learning Priorities:
 1. Data Structures and Algorithms
-2. ReactJs
+2. JavaScript Fundamentals
+3. NodeJs
