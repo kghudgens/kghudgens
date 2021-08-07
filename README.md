@@ -5,6 +5,8 @@ I am a Software Engineer currently attending the University of Maryland, earning
 My main objective is to become familiar with Reactjs and improve my ability to solve problems revolving around data structures and algorithms.
 
 Currently Working : Study Wise 
+        - HTML/CSS
+        - JavaScript
         - Django
         - PostgreSQL
         
