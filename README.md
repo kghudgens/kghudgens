@@ -12,5 +12,5 @@ Currently Working : Study Wise
         
 Current Learning Priorities:
 1. Data Structures and Algorithms
-2. JavaScript Fundamentals
-3. NodeJs
+2. Java for Web Development
+3. Django
