@@ -12,5 +12,5 @@ Currently Working : Study Wise
         
 Current Learning Priorities:
 1. Data Structures and Algorithms
-2. Java for Web Development
+2. Advanced Java and Spring Boot
 3. Django
