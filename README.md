@@ -4,13 +4,14 @@ I am a Software Engineer currently attending the University of Maryland, earning
 
 My main objective is to create more advanced projects with Java and improve my ability to solve problems revolving around data structures and algorithms.
 
-Currently Working : Study Wise 
+Currently Working : Shop 
+        - Java
+        - Spring MVC
         - HTML/CSS
         - JavaScript
-        - Django
-        - PostgreSQL
         
 Current Learning Priorities:
-1. Data Structures and Algorithms
-2. Advanced Java and Spring Boot
-3. Django
+1. Advanced Java
+2. Spring Boot
+3. Spring MVC
+4. Data Structures and Algorithms
