@@ -4,7 +4,7 @@ I am a Software Engineer currently attending the University of Maryland, earning
 
 My main objective is to create advanced projects with C and C++, and improve my ability to solve problems revolving around data structures and algorithms.
 
-Currently Working : Learning C
+Currently Working : Learning C/C++
         
 Current Learning Priorities:
 1. C/C++
