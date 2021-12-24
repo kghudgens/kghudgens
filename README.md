@@ -7,6 +7,6 @@ My main objective is to create advanced projects with C and C++, and improve my 
 Currently Working : Learning C/C++ and Why Join (Python Project)
         
 Current Learning Priorities:
-1. C/C++
+1. C++ 14 and C
 2. Python
 3. Data Structures and Algorithms
