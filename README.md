@@ -4,4 +4,4 @@ I am a Software Engineer currently attending the University of Maryland, earning
 
 Currently my main objective is to learn C++ 14 and C.
 
-Currently Working : Learning C++ 14, Le Library (C++ 14 Project), and Why Join (Python Project)
+Currently Working : Learning C++ 17, Le Library (C++ 17 Project), and Why Join (Python Project)
